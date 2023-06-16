@@ -12,15 +12,15 @@ function Content() {
                         <span className="text-primary">ESTOQUE</span>
                     </h1>
                     <div className="subheading mb-5">
-                        Blk 2, Lt 6, Calla Lily, Parksville Residences, Alapan II-A Imus Cavite, Philippines · (+63) 995 814 3127 ·
+                       Cavite, Philippines · (+63) 995 814 3127 ·
                         <a href="mailto:ferdinand.estoque@yahoo.com">ferdinand.estoque@yahoo.com</a>
                     </div>
-                    <p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <p className="lead mb-5">In dictum non consectetur a erat. Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Ultrices neque ornare aenean euismod elementum nisi quis. Adipiscing tristique risus nec feugiat in fermentum posuere. Enim neque volutpat ac tincidunt vitae semper quis. Faucibus et molestie ac feugiat sed lectus. Tellus mauris a diam maecenas sed enim ut sem viverra. Nibh sit amet commodo nulla facilisi nullam. Rutrum quisque non tellus orci ac auctor augue mauris. Magnis dis parturient montes nascetur. Tortor dignissim convallis aenean et tortor at risus viverra adipiscing. Duis tristique sollicitudin nibh sit. Nisi scelerisque eu ultrices vitae. Auctor elit sed vulputate mi sit amet. Eget mauris pharetra et ultrices neque ornare aenean euismod. Dictum fusce ut placerat orci. Donec ultrices tincidunt arcu non sodales neque.</p>
                     <div className="social-icons">
-                        <a className="social-icon" href="#!"><i className="fab fa-linkedin-in"></i></a>
-                        <a className="social-icon" href="https://github.com/festoqufx"><i className="fab fa-github"></i></a>
-                        <a className="social-icon" href="#!"><i className="fab fa-twitter"></i></a>
-                        <a className="social-icon" href="#!"><i className="fab fa-facebook-f"></i></a>
+                        <a className="social-icon" target="_blank" rel="noreferrer"  href="https://www.linkedin.com/in/ferdinand-estoque-46797876/"><i className="fab fa-linkedin-in"></i></a>
+                        <a className="social-icon" target="_blank" rel="noreferrer" href="https://github.com/festoqufx"><i className="fab fa-github"></i></a>
+                        <a className="social-icon" target="_blank" rel="noreferrer" href="/"><i className="fab fa-twitter"></i></a>
+                        <a className="social-icon" target="_blank" rel="noreferrer" href="/"><i className="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </section>
@@ -142,8 +142,8 @@ function Content() {
             <section className="resume-section" id="interests">
                 <div className="resume-section-content">
                     <h2 className="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-                    <p className="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                    <p>In dictum non consectetur a erat. Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Ultrices neque ornare aenean euismod elementum nisi quis. Adipiscing tristique risus nec feugiat in fermentum posuere. Enim neque volutpat ac tincidunt vitae semper quis. Faucibus et molestie ac feugiat sed lectus. Tellus mauris a diam maecenas sed enim ut sem viverra. Nibh sit amet commodo nulla facilisi nullam. Rutrum quisque non tellus orci ac auctor augue mauris. Magnis dis parturient montes nascetur. Tortor dignissim convallis aenean et tortor at risus viverra adipiscing. Duis tristique sollicitudin nibh sit. Nisi scelerisque eu ultrices vitae. Auctor elit sed vulputate mi sit amet. Eget mauris pharetra et ultrices neque ornare aenean euismod. Dictum fusce ut placerat orci. Donec ultrices tincidunt arcu non sodales neque.</p>
+                    <p className="mb-0">A diam maecenas sed enim ut. Netus et malesuada fames ac turpis. Aliquam etiam erat velit scelerisque in dictum. Eget nulla facilisi etiam dignissim diam quis enim lobortis. Integer quis auctor elit sed vulputate mi sit. Diam quam nulla porttitor massa id neque aliquam vestibulum morbi. Quam adipiscing vitae proin sagittis. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Diam quam nulla porttitor massa id neque. Eros in cursus turpis massa tincidunt dui ut ornare lectus. Tristique magna sit amet purus. Vitae ultricies leo integer malesuada nunc vel.</p>
                 </div>
             </section>
             <hr className="m-0" />
